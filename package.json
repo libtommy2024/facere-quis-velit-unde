@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/facere-quis-velit-unde",
-  "version": "2.4.5",
+  "version": "2.4.6",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -168,5 +168,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/facere-quis-velit-unde/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
